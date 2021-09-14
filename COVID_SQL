@@ -1,0 +1,3 @@
+Select * From "COVID_Vaccinations" A
+INNER JOIN "COVID_By_State" B
+ON A."State" = B."State";
