@@ -1,0 +1,5 @@
+Select
+--avg("Percent of Total Pop Fully Vaccinated by State of Residence"), avg("Hourly Wage")
+From "COVID_Vaccinations" A
+INNER JOIN "COVID_By_State" B
+ON A."State" = B."State";

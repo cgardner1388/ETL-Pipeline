@@ -1,3 +1,7 @@
-Select * From "COVID_Vaccinations" A
-INNER JOIN "COVID_By_State" B
-ON A."State" = B."State";
+Select "State",
+Avg("Total Cases") As Total_Cases, 
+Avg("Total Deaths") As Total_Deaths,
+Avg("Hourly Wage") As Hourly_Wage 
+From "COVID_By_State"
+GROUP BY 1
+Order by Hourly_Wage DESC;
