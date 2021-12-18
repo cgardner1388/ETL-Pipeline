@@ -1,10 +1,6 @@
-## *Covid and Hourly Wage*
-##An exercise in ETL (Extract, Load, Transform)*
+## *Covid and Hourly Wage - ETL (Extract, Load, Transform)*
 
 ![COVID Money](https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/covid19%20money.png?itok=ycJGsmTo)
-
-## Group 5:
-Bradley Barker, Cody Gardner, Yawavi Koudjonou (Vi)
 
 ## Situation: 
 The CDC site offers many datasets on COVID-19, but we wanted to combine and clean a few CDC datasets and merge with US Hourly Wage Data in order to show a greater picture.
