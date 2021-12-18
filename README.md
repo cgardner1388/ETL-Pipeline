@@ -1,4 +1,4 @@
-## *Covid and Hourly Wage - ETL (Extract, Load, Transform)*
+## *Covid and Hourly Wage - ETL (Extract, Transform, Load)*
 
 ![COVID Money](https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/covid19%20money.png?itok=ycJGsmTo)
 
