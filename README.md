@@ -3,7 +3,7 @@
 ![COVID Money](https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/covid19%20money.png?itok=ycJGsmTo)
 
 ## Situation: 
-The CDC site offers many datasets on COVID-19, but we wanted to combine and clean a few CDC datasets and merge with US Hourly Wage Data in order to show a greater picture.
+The CDC site offers many datasets on COVID-19, but we wanted to combine and clean a few CDC datasets and merge with US Hourly Wage Data in order to show a better picture.
 
 ## Questions:
 1. What is the correlation between vaccination count and COVID deaths per state?
@@ -79,4 +79,4 @@ The CDC site offers many datasets on COVID-19, but we wanted to combine and clea
 4. Once the tables were created in SQL, we performed a few queries within SQL
 
 ## Final Notes
-Through this ETL process, we now have tables that will be a great starting point to answering the questions proposed above, along with further research regarding a State's hourly wage and COVID vaccinations or deaths.
+Through this ETL process, we now have tables that will be a great resource to answering the questions proposed above, along with further research regarding a State's hourly wage and COVID vaccinations or deaths.
